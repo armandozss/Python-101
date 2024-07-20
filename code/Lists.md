@@ -22,7 +22,7 @@ print(food)  #Output: ['Pizza', 'Spaghetti', 'Hot dog', 'Sushi']
 - Adding Items: Use the `append()` method to add an item to the end of the list.
 ```
 food.append("Ice cream")
-print(food)  # Output: ['Pizza', 'Spaghetti', 'Hot dog', 'Sushi', 'Ice cream']
+print(food)  #Output: ['Pizza', 'Spaghetti', 'Hot dog', 'Sushi', 'Ice cream']
 ```
 - Removing Items: Use the `remove()` method to delete an item by its value. If the item is not found, it will raise a `ValueError`.
 

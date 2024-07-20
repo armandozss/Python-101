@@ -15,9 +15,9 @@ Some of the benefits of multi-assignment are:
 flowers  =  ("Tulip", "bougainvillea", "Lily")
 spring_bloom, tropical_vine, fragrant_perennial = flowers
 
-print(spring_bloom)            Output: Tulip
-print(tropical_vine)           Output: Bougainvillea
-print(fragrant_perennial)      Output: Lily
+print(spring_bloom)            #Output: Tulip
+print(tropical_vine)           #Output: Bougainvillea
+print(fragrant_perennial)      #Output: Lily
 ```
 Using multiple assignment and tuple unpacking can simplify your code and make it more readable.
 

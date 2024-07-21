@@ -5,7 +5,7 @@ end = "This is all of nested function calls"
 
 # Without nested function calls
 
-num = input("Put a whole positive number: ")
+num = input("Enter a whole positive number: ")
 num = float(num)
 num = abs(num)
 num = round(num)
@@ -20,7 +20,7 @@ print(bre)
 
 # With nested function calls
 
-print(round(abs(float(input("Put a whole positive number: ")))))
+print(round(abs(float(input("Enter a whole positive number: ")))))
 
 #-----------------------------------------------------------------------------------------------------------------
 
